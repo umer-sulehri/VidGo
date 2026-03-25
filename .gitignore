@@ -1,0 +1,21 @@
+# Node dependencies
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+
+# PHP dependencies
+backend/vendor/
+backend/.env
+backend/storage/*.key
+backend/public/storage
+backend/public/hot
+backend/storage/framework/cache/data/*
+backend/storage/framework/sessions/*
+backend/storage/framework/testing/*
+backend/storage/framework/views/*
+backend/storage/logs/*
+
+# OS files
+.DS_Store
+Thumbs.db
